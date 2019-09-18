@@ -1,0 +1,16 @@
+add_address:
+  name: "王伟"
+  phone: "13811112222"
+  address: "回龙观龙锦六"
+  code: "100000"
+  province: "广东"
+  city: "广州"
+  area: "天河"
+update_address:
+  name: "王宏"
+  phone: "13811118888"
+  address: "回龙观龙锦二"
+  code: "100000"
+  province: "河北"
+  city: "唐山"
+  area: "路北"
